@@ -1,0 +1,515 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------------
++ Año 2020: 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+INFORMACION GLOBAL DE LOS MERCADOS:
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+- Maximo Drawdown: -42.10 € (duro 92 dias). Empezo el dia 30/3/2020  y acabo el 28/6/2020
+ con 28 dias entre medias en los que no se opero. El 5/5/2020 se llego al pico minimo (6.06 % de caida)
+
+- Drawdown mas largo: Coincide con Drawdown maximo
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+- Dias de perdidas consecutivas -> 9. Empezando el dia 30/3/2020  y acabando el 12/4/2020
+ Hubo 5 dias entre medias en los que no se opero. Dinero perdido en ese periodo: -20.74 €
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+- Maxima Ganancia en un dia: 29.58 € (18/3/2020) || - Maxima Perdida en un dia: -9.98 € (16/3/2020)
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+- Estadisticas TOTALES:
+
+     Ganadora Media = 3.32 € || Perdedora Media = -1.91 € || nº de Trades = 618 || Porcentaje Ganador = 44.66 %  
+     Ratio P/L = 1.74 || Rentabilidad = 19.39 % || Esperanza Matematica = 0.43 €
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+- Estadisticas AÑO 1:
+
+     Ganadora Media = 3.32 € || Perdedora Media = -1.91 € || nº de Trades = 618 || Porcentaje Ganador = 44.66 %  
+     Ratio P/L = 1.74 || Rentabilidad = 19.39 % || Esperanza Matematica = 0.43 €
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+   -ENERO - Año 1:
+
+       Ganadora Media = 1.56 € || Perdedora Media = -0.91 € || nº de Trades = 67 || Porcentaje Ganador = 47.76 %  
+       Ratio P/L = 1.72 || Rentabilidad = 0.36 % || Esperanza Matematica = 0.27 €
+
+   -FEBRERO - Año 1:
+
+       Ganadora Media = 2.48 € || Perdedora Media = -1.37 € || nº de Trades = 57 || Porcentaje Ganador = 33.33 %  
+       Ratio P/L = 1.81 || Rentabilidad = -0.71 % || Esperanza Matematica = -0.09 €
+
+   -MARZO - Año 1:
+
+       Ganadora Media = 9.16 € || Perdedora Media = -4.59 € || nº de Trades = 70 || Porcentaje Ganador = 42.86 %  
+       Ratio P/L = 2.00 || Rentabilidad = 12.73 % || Esperanza Matematica = 1.30 €
+
+   -ABRIL - Año 1:
+
+       Ganadora Media = 2.19 € || Perdedora Media = -2.35 € || nº de Trades = 52 || Porcentaje Ganador = 30.77 %  
+       Ratio P/L = 0.93 || Rentabilidad = -3.86 % || Esperanza Matematica = -0.95 €
+
+   -MAYO - Año 1:
+
+       Ganadora Media = 2.92 € || Perdedora Media = -2.48 € || nº de Trades = 65 || Porcentaje Ganador = 43.08 %  
+       Ratio P/L = 1.18 || Rentabilidad = 1.92 % || Esperanza Matematica = -0.15 €
+
+   -JUNIO - Año 1:
+
+       Ganadora Media = 3.92 € || Perdedora Media = -1.88 € || nº de Trades = 72 || Porcentaje Ganador = 52.78 %  
+       Ratio P/L = 2.08 || Rentabilidad = 4.19 % || Esperanza Matematica = 1.18 €
+
+   -JULIO - Año 1:
+
+       Ganadora Media = 2.27 € || Perdedora Media = -1.74 € || nº de Trades = 76 || Porcentaje Ganador = 47.37 %  
+       Ratio P/L = 1.31 || Rentabilidad = 1.16 % || Esperanza Matematica = 0.16 €
+
+   -AGOSTO - Año 1:
+
+       Ganadora Media = 2.02 € || Perdedora Media = -2.13 € || nº de Trades = 68 || Porcentaje Ganador = 45.59 %  
+       Ratio P/L = 0.95 || Rentabilidad = 0.12 % || Esperanza Matematica = -0.24 €
+
+   -SEPTIEMBRE - Año 1:
+
+       Ganadora Media = 1.93 € || Perdedora Media = -0.77 € || nº de Trades = 49 || Porcentaje Ganador = 59.18 %  
+       Ratio P/L = 2.52 || Rentabilidad = 2.93 % || Esperanza Matematica = 0.83 €
+
+   -OCTUBRE - Año 1:
+
+       Ganadora Media = 2.28 € || Perdedora Media = -1.25 € || nº de Trades = 42 || Porcentaje Ganador = 40.48 %  
+       Ratio P/L = 1.83 || Rentabilidad = -0.14 % || Esperanza Matematica = 0.18 €
+
+   -NOVIEMBRE - Año 1:
+
+       Ganadora Media = NaN € || Perdedora Media = NaN € || nº de Trades = 0 || Porcentaje Ganador = NaN %  
+       Ratio P/L = NaN || Rentabilidad = 0.00 % || Esperanza Matematica = NaN €
+
+   -DICIEMBRE - Año 1:
+
+       Ganadora Media = NaN € || Perdedora Media = NaN € || nº de Trades = 0 || Porcentaje Ganador = NaN %  
+       Ratio P/L = NaN || Rentabilidad = 0.00 % || Esperanza Matematica = NaN €
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+INFORMACION MERCADO 1:
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+- Maximo Drawdown: -23.91 € (duro 292 dias). Empezo el dia 19/3/2020  y acabo el 31/12/2020
+ con 171 dias entre medias en los que no se opero. El 18/9/2020 se llego al pico minimo (3.85 % de caida)
+
+- Drawdown mas largo: Coincide con Drawdown maximo
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+- Dias de perdidas consecutivas -> 10. Empezando el dia 26/3/2020  y acabando el 15/4/2020
+ Hubo 11 dias entre medias en los que no se opero. Dinero perdido en ese periodo: -17.58 €
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+- Maxima Ganancia en un dia: 6.94 € (18/3/2020) || - Maxima Perdida en un dia: -2.11 € (2/3/2020)
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+- Estadisticas TOTALES:
+
+     Ganadora Media = 1.57 € || Perdedora Media = -1.00 € || nº de Trades = 159 || Porcentaje Ganador = 35.85 %  
+     Ratio P/L = 1.57 || Rentabilidad = -2.00 % || Esperanza Matematica = -0.08 €
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+- Estadisticas AÑO 1:
+
+     Ganadora Media = 1.57 € || Perdedora Media = -1.00 € || nº de Trades = 159 || Porcentaje Ganador = 35.85 %  
+     Ratio P/L = 1.57 || Rentabilidad = -2.00 % || Esperanza Matematica = -0.08 €
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+   -ENERO - Año 1:
+
+       Ganadora Media = 0.49 € || Perdedora Media = -0.58 € || nº de Trades = 15 || Porcentaje Ganador = 53.33 %  
+       Ratio P/L = 0.83 || Rentabilidad = -0.03 % || Esperanza Matematica = -0.01 €
+
+   -FEBRERO - Año 1:
+
+       Ganadora Media = 2.09 € || Perdedora Media = -0.64 € || nº de Trades = 12 || Porcentaje Ganador = 16.67 %  
+       Ratio P/L = 3.26 || Rentabilidad = -0.36 % || Esperanza Matematica = -0.19 €
+
+   -MARZO - Año 1:
+
+       Ganadora Media = 3.82 € || Perdedora Media = -1.76 € || nº de Trades = 16 || Porcentaje Ganador = 37.50 %  
+       Ratio P/L = 2.18 || Rentabilidad = 0.88 % || Esperanza Matematica = 0.34 €
+
+   -ABRIL - Año 1:
+
+       Ganadora Media = 1.16 € || Perdedora Media = -1.70 € || nº de Trades = 16 || Porcentaje Ganador = 25.00 %  
+       Ratio P/L = 0.68 || Rentabilidad = -2.55 % || Esperanza Matematica = -0.98 €
+
+   -MAYO - Año 1:
+
+       Ganadora Media = 2.28 € || Perdedora Media = -0.78 € || nº de Trades = 16 || Porcentaje Ganador = 37.50 %  
+       Ratio P/L = 2.94 || Rentabilidad = 0.99 % || Esperanza Matematica = 0.37 €
+
+   -JUNIO - Año 1:
+
+       Ganadora Media = 2.38 € || Perdedora Media = -0.91 € || nº de Trades = 18 || Porcentaje Ganador = 27.78 %  
+       Ratio P/L = 2.62 || Rentabilidad = 0.02 % || Esperanza Matematica = 0.01 €
+
+   -JULIO - Año 1:
+
+       Ganadora Media = 1.43 € || Perdedora Media = -0.85 € || nº de Trades = 17 || Porcentaje Ganador = 35.29 %  
+       Ratio P/L = 1.69 || Rentabilidad = -0.12 % || Esperanza Matematica = -0.04 €
+
+   -AGOSTO - Año 1:
+
+       Ganadora Media = 0.87 € || Perdedora Media = -0.93 € || nº de Trades = 16 || Porcentaje Ganador = 31.25 %  
+       Ratio P/L = 0.93 || Rentabilidad = -0.98 % || Esperanza Matematica = -0.37 €
+
+   -SEPTIEMBRE - Año 1:
+
+       Ganadora Media = 1.11 € || Perdedora Media = -0.97 € || nº de Trades = 19 || Porcentaje Ganador = 57.89 %  
+       Ratio P/L = 1.14 || Rentabilidad = 0.74 % || Esperanza Matematica = 0.23 €
+
+   -OCTUBRE - Año 1:
+
+       Ganadora Media = 0.75 € || Perdedora Media = -0.63 € || nº de Trades = 14 || Porcentaje Ganador = 28.57 %  
+       Ratio P/L = 1.19 || Rentabilidad = -0.55 % || Esperanza Matematica = -0.24 €
+
+   -NOVIEMBRE - Año 1:
+
+       Ganadora Media = NaN € || Perdedora Media = NaN € || nº de Trades = 0 || Porcentaje Ganador = NaN %  
+       Ratio P/L = NaN || Rentabilidad = 0.00 % || Esperanza Matematica = NaN €
+
+   -DICIEMBRE - Año 1:
+
+       Ganadora Media = NaN € || Perdedora Media = NaN € || nº de Trades = 0 || Porcentaje Ganador = NaN %  
+       Ratio P/L = NaN || Rentabilidad = 0.00 % || Esperanza Matematica = NaN €
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+INFORMACION MERCADO 2:
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+- Maximo Drawdown: -12.52 € (duro 129 dias). Empezo el dia 16/3/2020  y acabo el 20/7/2020
+ con 64 dias entre medias en los que no se opero. El 11/5/2020 se llego al pico minimo (1.98 % de caida)
+
+- Drawdown mas largo:  -8.20 € (duro 163 dias). Empezo el dia 24/7/2020  y acabo el 31/12/2020
+ con 122 dias entre medias en los que no se opero. El 19/9/2020 se llego al pico minimo (1.30 % de caida)
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+- Dias de perdidas consecutivas -> 6. Empezando el dia 24/7/2020  y acabando el 3/8/2020
+ Hubo 5 dias entre medias en los que no se opero. Dinero perdido en ese periodo: -4.18 €
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+- Maxima Ganancia en un dia: 9.35 € (13/3/2020) || - Maxima Perdida en un dia: -2.67 € (16/3/2020)
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+- Estadisticas TOTALES:
+
+     Ganadora Media = 1.11 € || Perdedora Media = -0.81 € || nº de Trades = 150 || Porcentaje Ganador = 47.33 %  
+     Ratio P/L = 1.37 || Rentabilidad = 2.41 % || Esperanza Matematica = 0.10 €
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+- Estadisticas AÑO 1:
+
+     Ganadora Media = 1.11 € || Perdedora Media = -0.81 € || nº de Trades = 150 || Porcentaje Ganador = 47.33 %  
+     Ratio P/L = 1.37 || Rentabilidad = 2.41 % || Esperanza Matematica = 0.10 €
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+   -ENERO - Año 1:
+
+       Ganadora Media = 0.58 € || Perdedora Media = -0.47 € || nº de Trades = 20 || Porcentaje Ganador = 55.00 %  
+       Ratio P/L = 1.22 || Rentabilidad = 0.34 % || Esperanza Matematica = 0.10 €
+
+   -FEBRERO - Año 1:
+
+       Ganadora Media = 0.56 € || Perdedora Media = -0.47 € || nº de Trades = 16 || Porcentaje Ganador = 37.50 %  
+       Ratio P/L = 1.19 || Rentabilidad = -0.22 % || Esperanza Matematica = -0.08 €
+
+   -MARZO - Año 1:
+
+       Ganadora Media = 4.25 € || Perdedora Media = -1.45 € || nº de Trades = 15 || Porcentaje Ganador = 46.67 %  
+       Ratio P/L = 2.92 || Rentabilidad = 2.95 % || Esperanza Matematica = 1.21 €
+
+   -ABRIL - Año 1:
+
+       Ganadora Media = 0.70 € || Perdedora Media = -0.98 € || nº de Trades = 10 || Porcentaje Ganador = 20.00 %  
+       Ratio P/L = 0.71 || Rentabilidad = -1.02 % || Esperanza Matematica = -0.64 €
+
+   -MAYO - Año 1:
+
+       Ganadora Media = 1.09 € || Perdedora Media = -1.07 € || nº de Trades = 19 || Porcentaje Ganador = 42.11 %  
+       Ratio P/L = 1.02 || Rentabilidad = -0.48 % || Esperanza Matematica = -0.16 €
+
+   -JUNIO - Año 1:
+
+       Ganadora Media = 0.91 € || Perdedora Media = -1.39 € || nº de Trades = 16 || Porcentaje Ganador = 81.25 %  
+       Ratio P/L = 0.65 || Rentabilidad = 1.22 % || Esperanza Matematica = 0.48 €
+
+   -JULIO - Año 1:
+
+       Ganadora Media = 0.86 € || Perdedora Media = -0.60 € || nº de Trades = 19 || Porcentaje Ganador = 36.84 %  
+       Ratio P/L = 1.44 || Rentabilidad = -0.18 % || Esperanza Matematica = -0.06 €
+
+   -AGOSTO - Año 1:
+
+       Ganadora Media = 0.60 € || Perdedora Media = -0.58 € || nº de Trades = 17 || Porcentaje Ganador = 41.18 %  
+       Ratio P/L = 1.04 || Rentabilidad = -0.25 % || Esperanza Matematica = -0.09 €
+
+   -SEPTIEMBRE - Año 1:
+
+       Ganadora Media = 1.06 € || Perdedora Media = -0.99 € || nº de Trades = 10 || Porcentaje Ganador = 50.00 %  
+       Ratio P/L = 1.07 || Rentabilidad = 0.05 % || Esperanza Matematica = 0.03 €
+
+   -OCTUBRE - Año 1:
+
+       Ganadora Media = 0.44 € || Perdedora Media = -0.69 € || nº de Trades = 8 || Porcentaje Ganador = 62.50 %  
+       Ratio P/L = 0.64 || Rentabilidad = 0.02 % || Esperanza Matematica = 0.02 €
+
+   -NOVIEMBRE - Año 1:
+
+       Ganadora Media = NaN € || Perdedora Media = NaN € || nº de Trades = 0 || Porcentaje Ganador = NaN %  
+       Ratio P/L = NaN || Rentabilidad = 0.00 % || Esperanza Matematica = NaN €
+
+   -DICIEMBRE - Año 1:
+
+       Ganadora Media = NaN € || Perdedora Media = NaN € || nº de Trades = 0 || Porcentaje Ganador = NaN %  
+       Ratio P/L = NaN || Rentabilidad = 0.00 % || Esperanza Matematica = NaN €
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+INFORMACION MERCADO 3:
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+- Maximo Drawdown: -13.20 € (duro 46 dias). Empezo el dia 31/3/2020  y acabo el 14/5/2020
+ con 23 dias entre medias en los que no se opero. El 5/5/2020 se llego al pico minimo (1.99 % de caida)
+
+- Drawdown mas largo:  -6.16 € (duro 80 dias). Empezo el dia 14/10/2020  y acabo el 31/12/2020
+ con 74 dias entre medias en los que no se opero. El 19/11/2020 se llego al pico minimo (0.87 % de caida)
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+- Dias de perdidas consecutivas -> 6. Empezando el dia 31/7/2020  y acabando el 9/8/2020
+ Hubo 4 dias entre medias en los que no se opero. Dinero perdido en ese periodo: -7.53 €
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+- Maxima Ganancia en un dia: 19.85 € (18/3/2020) || - Maxima Perdida en un dia: -2.61 € (2/3/2020)
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+- Estadisticas TOTALES:
+
+     Ganadora Media = 2.42 € || Perdedora Media = -1.29 € || nº de Trades = 149 || Porcentaje Ganador = 51.68 %  
+     Ratio P/L = 1.88 || Rentabilidad = 15.34 % || Esperanza Matematica = 0.63 €
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+- Estadisticas AÑO 1:
+
+     Ganadora Media = 2.42 € || Perdedora Media = -1.29 € || nº de Trades = 149 || Porcentaje Ganador = 51.68 %  
+     Ratio P/L = 1.88 || Rentabilidad = 15.34 % || Esperanza Matematica = 0.63 €
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+   -ENERO - Año 1:
+
+       Ganadora Media = 0.88 € || Perdedora Media = -0.68 € || nº de Trades = 12 || Porcentaje Ganador = 25.00 %  
+       Ratio P/L = 1.30 || Rentabilidad = -0.57 % || Esperanza Matematica = -0.29 €
+
+   -FEBRERO - Año 1:
+
+       Ganadora Media = 1.40 € || Perdedora Media = -0.93 € || nº de Trades = 12 || Porcentaje Ganador = 41.67 %  
+       Ratio P/L = 1.51 || Rentabilidad = 0.08 % || Esperanza Matematica = 0.04 €
+
+   -MARZO - Año 1:
+
+       Ganadora Media = 7.65 € || Perdedora Media = -1.79 € || nº de Trades = 19 || Porcentaje Ganador = 47.37 %  
+       Ratio P/L = 4.28 || Rentabilidad = 8.35 % || Esperanza Matematica = 2.68 €
+
+   -ABRIL - Año 1:
+
+       Ganadora Media = 1.74 € || Perdedora Media = -1.53 € || nº de Trades = 14 || Porcentaje Ganador = 35.71 %  
+       Ratio P/L = 1.14 || Rentabilidad = -0.77 % || Esperanza Matematica = -0.36 €
+
+   -MAYO - Año 1:
+
+       Ganadora Media = 2.08 € || Perdedora Media = -1.70 € || nº de Trades = 16 || Porcentaje Ganador = 56.25 %  
+       Ratio P/L = 1.22 || Rentabilidad = 1.04 % || Esperanza Matematica = 0.43 €
+
+   -JUNIO - Año 1:
+
+       Ganadora Media = 2.11 € || Perdedora Media = -1.53 € || nº de Trades = 19 || Porcentaje Ganador = 63.16 %  
+       Ratio P/L = 1.38 || Rentabilidad = 2.21 % || Esperanza Matematica = 0.77 €
+
+   -JULIO - Año 1:
+
+       Ganadora Media = 1.20 € || Perdedora Media = -1.04 € || nº de Trades = 21 || Porcentaje Ganador = 66.67 %  
+       Ratio P/L = 1.15 || Rentabilidad = 1.41 % || Esperanza Matematica = 0.45 €
+
+   -AGOSTO - Año 1:
+
+       Ganadora Media = 1.63 € || Perdedora Media = -1.16 € || nº de Trades = 17 || Porcentaje Ganador = 47.06 %  
+       Ratio P/L = 1.40 || Rentabilidad = 0.38 % || Esperanza Matematica = 0.15 €
+
+   -SEPTIEMBRE - Año 1:
+
+       Ganadora Media = 1.69 € || Perdedora Media = -0.06 € || nº de Trades = 11 || Porcentaje Ganador = 90.91 %  
+       Ratio P/L = 29.07 || Rentabilidad = 2.45 % || Esperanza Matematica = 1.54 €
+
+   -OCTUBRE - Año 1:
+
+       Ganadora Media = 4.30 € || Perdedora Media = -1.32 € || nº de Trades = 8 || Porcentaje Ganador = 25.00 %  
+       Ratio P/L = 3.26 || Rentabilidad = 0.10 % || Esperanza Matematica = 0.09 €
+
+   -NOVIEMBRE - Año 1:
+
+       Ganadora Media = NaN € || Perdedora Media = NaN € || nº de Trades = 0 || Porcentaje Ganador = NaN %  
+       Ratio P/L = NaN || Rentabilidad = 0.00 % || Esperanza Matematica = NaN €
+
+   -DICIEMBRE - Año 1:
+
+       Ganadora Media = NaN € || Perdedora Media = NaN € || nº de Trades = 0 || Porcentaje Ganador = NaN %  
+       Ratio P/L = NaN || Rentabilidad = 0.00 % || Esperanza Matematica = NaN €
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+INFORMACION MERCADO 4:
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+- Maximo Drawdown: -12.94 € (duro 76 dias). Empezo el dia 10/1/2020  y acabo el 23/3/2020
+ con 31 dias entre medias en los que no se opero. El 11/3/2020 se llego al pico minimo (2.09 % de caida)
+
+- Drawdown mas largo:  -2.52 € (duro 128 dias). Empezo el dia 28/8/2020  y acabo el 31/12/2020
+ con 105 dias entre medias en los que no se opero. El 29/10/2020 se llego al pico minimo (0.40 % de caida)
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+- Dias de perdidas consecutivas -> 7. Empezando el dia 10/1/2020  y acabando el 22/1/2020
+ Hubo 6 dias entre medias en los que no se opero. Dinero perdido en ese periodo: -3.77 €
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+- Maxima Ganancia en un dia: 8.55 € (12/3/2020) || - Maxima Perdida en un dia: -2.59 € (9/3/2020)
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+- Estadisticas TOTALES:
+
+     Ganadora Media = 1.32 € || Perdedora Media = -0.80 € || nº de Trades = 160 || Porcentaje Ganador = 44.38 %  
+     Ratio P/L = 1.65 || Rentabilidad = 3.64 % || Esperanza Matematica = 0.14 €
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+- Estadisticas AÑO 1:
+
+     Ganadora Media = 1.32 € || Perdedora Media = -0.80 € || nº de Trades = 160 || Porcentaje Ganador = 44.38 %  
+     Ratio P/L = 1.65 || Rentabilidad = 3.64 % || Esperanza Matematica = 0.14 €
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+   -ENERO - Año 1:
+
+       Ganadora Media = 1.08 € || Perdedora Media = -0.70 € || nº de Trades = 20 || Porcentaje Ganador = 50.00 %  
+       Ratio P/L = 1.55 || Rentabilidad = 0.62 % || Esperanza Matematica = 0.19 €
+
+   -FEBRERO - Año 1:
+
+       Ganadora Media = 1.40 € || Perdedora Media = -0.88 € || nº de Trades = 17 || Porcentaje Ganador = 35.29 %  
+       Ratio P/L = 1.59 || Rentabilidad = -0.21 % || Esperanza Matematica = -0.07 €
+
+   -MARZO - Año 1:
+
+       Ganadora Media = 3.32 € || Perdedora Media = -1.94 € || nº de Trades = 20 || Porcentaje Ganador = 40.00 %  
+       Ratio P/L = 1.71 || Rentabilidad = 0.54 % || Esperanza Matematica = 0.17 €
+
+   -ABRIL - Año 1:
+
+       Ganadora Media = 0.92 € || Perdedora Media = -0.56 € || nº de Trades = 12 || Porcentaje Ganador = 41.67 %  
+       Ratio P/L = 1.62 || Rentabilidad = 0.10 % || Esperanza Matematica = 0.05 €
+
+   -MAYO - Año 1:
+
+       Ganadora Media = 1.44 € || Perdedora Media = -0.47 € || nº de Trades = 14 || Porcentaje Ganador = 35.71 %  
+       Ratio P/L = 3.03 || Rentabilidad = 0.47 % || Esperanza Matematica = 0.21 €
+
+   -JUNIO - Año 1:
+
+       Ganadora Media = 1.61 € || Perdedora Media = -0.63 € || nº de Trades = 19 || Porcentaje Ganador = 42.11 %  
+       Ratio P/L = 2.54 || Rentabilidad = 0.95 % || Esperanza Matematica = 0.31 €
+
+   -JULIO - Año 1:
+
+       Ganadora Media = 0.67 € || Perdedora Media = -0.55 € || nº de Trades = 19 || Porcentaje Ganador = 47.37 %  
+       Ratio P/L = 1.22 || Rentabilidad = 0.09 % || Esperanza Matematica = 0.03 €
+
+   -AGOSTO - Año 1:
+
+       Ganadora Media = 1.00 € || Perdedora Media = -0.74 € || nº de Trades = 18 || Porcentaje Ganador = 61.11 %  
+       Ratio P/L = 1.35 || Rentabilidad = 0.92 % || Esperanza Matematica = 0.32 €
+
+   -SEPTIEMBRE - Año 1:
+
+       Ganadora Media = 0.73 € || Perdedora Media = -0.49 € || nº de Trades = 9 || Porcentaje Ganador = 33.33 %  
+       Ratio P/L = 1.47 || Rentabilidad = -0.12 % || Esperanza Matematica = -0.09 €
+
+   -OCTUBRE - Año 1:
+
+       Ganadora Media = 0.68 € || Perdedora Media = -0.44 € || nº de Trades = 12 || Porcentaje Ganador = 50.00 %  
+       Ratio P/L = 1.54 || Rentabilidad = 0.22 % || Esperanza Matematica = 0.12 €
+
+   -NOVIEMBRE - Año 1:
+
+       Ganadora Media = NaN € || Perdedora Media = NaN € || nº de Trades = 0 || Porcentaje Ganador = NaN %  
+       Ratio P/L = NaN || Rentabilidad = 0.00 % || Esperanza Matematica = NaN €
+
+   -DICIEMBRE - Año 1:
+
+       Ganadora Media = NaN € || Perdedora Media = NaN € || nº de Trades = 0 || Porcentaje Ganador = NaN %  
+       Ratio P/L = NaN || Rentabilidad = 0.00 % || Esperanza Matematica = NaN €
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+INFORMACION MERCADO 5:
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+- Maximo Drawdown: -0.00 € (duro 0 dias). Empezo el dia 2/1/2020  y acabo el 1/1/2020
+ con 0 dias entre medias en los que no se opero. El 1/1/2020 se llego al pico minimo (0.00 % de caida)
+
+- Drawdown mas largo: Coincide con Drawdown maximo
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+- Dias de perdidas consecutivas -> 0. Empezando el dia 1/1/2020  y acabando el 1/1/2020
+ Hubo 0 dias entre medias en los que no se opero. Dinero perdido en ese periodo: -0.00 €
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+- Maxima Ganancia en un dia: 0.00 € (1/1/2020) || - Maxima Perdida en un dia: 0.00 € (1/1/2020)
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+- Estadisticas TOTALES:
+
+     Ganadora Media = NaN € || Perdedora Media = NaN € || nº de Trades = 0 || Porcentaje Ganador = NaN %  
+     Ratio P/L = NaN || Rentabilidad = 0.00 % || Esperanza Matematica = NaN €
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+- Estadisticas AÑO 1:
+
+     Ganadora Media = NaN € || Perdedora Media = NaN € || nº de Trades = 0 || Porcentaje Ganador = NaN %  
+     Ratio P/L = NaN || Rentabilidad = 0.00 % || Esperanza Matematica = NaN €
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+   -ENERO - Año 1:
+
+       Ganadora Media = NaN € || Perdedora Media = NaN € || nº de Trades = 0 || Porcentaje Ganador = NaN %  
+       Ratio P/L = NaN || Rentabilidad = 0.00 % || Esperanza Matematica = NaN €
+
+   -FEBRERO - Año 1:
+
+       Ganadora Media = NaN € || Perdedora Media = NaN € || nº de Trades = 0 || Porcentaje Ganador = NaN %  
+       Ratio P/L = NaN || Rentabilidad = 0.00 % || Esperanza Matematica = NaN €
+
+   -MARZO - Año 1:
+
+       Ganadora Media = NaN € || Perdedora Media = NaN € || nº de Trades = 0 || Porcentaje Ganador = NaN %  
+       Ratio P/L = NaN || Rentabilidad = 0.00 % || Esperanza Matematica = NaN €
+
+   -ABRIL - Año 1:
+
+       Ganadora Media = NaN € || Perdedora Media = NaN € || nº de Trades = 0 || Porcentaje Ganador = NaN %  
+       Ratio P/L = NaN || Rentabilidad = 0.00 % || Esperanza Matematica = NaN €
+
+   -MAYO - Año 1:
+
+       Ganadora Media = NaN € || Perdedora Media = NaN € || nº de Trades = 0 || Porcentaje Ganador = NaN %  
+       Ratio P/L = NaN || Rentabilidad = 0.00 % || Esperanza Matematica = NaN €
+
+   -JUNIO - Año 1:
+
+       Ganadora Media = NaN € || Perdedora Media = NaN € || nº de Trades = 0 || Porcentaje Ganador = NaN %  
+       Ratio P/L = NaN || Rentabilidad = 0.00 % || Esperanza Matematica = NaN €
+
+   -JULIO - Año 1:
+
+       Ganadora Media = NaN € || Perdedora Media = NaN € || nº de Trades = 0 || Porcentaje Ganador = NaN %  
+       Ratio P/L = NaN || Rentabilidad = 0.00 % || Esperanza Matematica = NaN €
+
+   -AGOSTO - Año 1:
+
+       Ganadora Media = NaN € || Perdedora Media = NaN € || nº de Trades = 0 || Porcentaje Ganador = NaN %  
+       Ratio P/L = NaN || Rentabilidad = 0.00 % || Esperanza Matematica = NaN €
+
+   -SEPTIEMBRE - Año 1:
+
+       Ganadora Media = NaN € || Perdedora Media = NaN € || nº de Trades = 0 || Porcentaje Ganador = NaN %  
+       Ratio P/L = NaN || Rentabilidad = 0.00 % || Esperanza Matematica = NaN €
+
+   -OCTUBRE - Año 1:
+
+       Ganadora Media = NaN € || Perdedora Media = NaN € || nº de Trades = 0 || Porcentaje Ganador = NaN %  
+       Ratio P/L = NaN || Rentabilidad = 0.00 % || Esperanza Matematica = NaN €
+
+   -NOVIEMBRE - Año 1:
+
+       Ganadora Media = NaN € || Perdedora Media = NaN € || nº de Trades = 0 || Porcentaje Ganador = NaN %  
+       Ratio P/L = NaN || Rentabilidad = 0.00 % || Esperanza Matematica = NaN €
+
+   -DICIEMBRE - Año 1:
+
+       Ganadora Media = NaN € || Perdedora Media = NaN € || nº de Trades = 0 || Porcentaje Ganador = NaN %  
+       Ratio P/L = NaN || Rentabilidad = 0.00 % || Esperanza Matematica = NaN €
+-----------------------------------------------------------------------------------------------------------------------------------------------------
