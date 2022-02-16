@@ -18,7 +18,7 @@ To let the program analyze your excel data, this requirements must be satisfied 
     In order to be able to analyze several years in a row, it is necessary that the final and initial accumulated figures of two years
     consecutive match exactly and must also have the same markets.
 
-The excel needs to be in the same directory of the program. The program comes with an example excel ('EXAMPLE - ESTRATEGIA HAPAR.xlsx') that satisfies the requirements, and .txt downloaded examples ('Estadisticas_2019-2020_(17-Jan-2021).txt'). If two excel sheets with the same year are selected, the program will display an error of temporary inconsistency.
+The excel needs to be in the same directory of the program. The program comes with an example excel ('EXAMPLE - ESTRATEGIA HAPAR.xlsx') that satisfies the requirements, and .txt downloaded examples ('Estadisticas_2019-2020_(17-Jan-2021).txt'). If two excel sheets with the same year are selected, the program will display an error of temporary inconsistency. Also, the excel sheets must be added in chronological order or the same error will be displayed
 
 ![Excel Image](/assets/excel.png) 
 
@@ -38,7 +38,7 @@ Analysis 1           |  Analysis 2 with stats
 
 Finally you can click on 'Informe' to show a new window with a complete analysis of each market that is present in your excel, and a global analysis combining all markets statistics. 
 
-GUI image            |  Loaded Excel Sheets
+Report 1 - Global Report           |  Report 2 - Market 3
 :-------------------------:|:-------------------------:
 ![](/assets/report1.png) | ![](/assets/report2.png)
 
