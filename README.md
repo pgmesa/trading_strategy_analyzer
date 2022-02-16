@@ -2,9 +2,7 @@
 
 App made in matlab with an intuitive GUI for analysing trading strategy results from excel data. Code file names and GUI are in Spanish. 
 
-Performs the statistical analysis of a strategy used to operate in the stock market. It's an app made for traders who daily operate in the market and want to analize all their strategy performance data.
-
-This application analyzes the data of the operations carried out on one or more markets daily for one or several years and shows the statistical results both in graphs and in downloadable files (.txt) by the user. The file that the program is going to read must be of the excel type (.xlsx) and meet the conditions specified in the help on the home page.
+Performs the statistical analysis of a strategy used to operate in the market. It's an app made for traders who daily operate in the market and want to analize all their strategy performance data. It analyzes the data of the operations carried out on one or more markets daily for one or several years and shows the statistical results both in graphs and in downloadable files (.txt) by the user. The file that the program is going to read must be of the excel type (.xlsx) and meet the conditions specified in the help on the home page.
 
 ### Requires Matlab Version 'R2020b' or higher
 
