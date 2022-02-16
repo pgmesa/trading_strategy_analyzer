@@ -26,6 +26,7 @@ The excel needs to be in the same directory of the program. The program comes wi
 2 ways:
 1. Execute the .exe if you are in windows (you don't need matlab to be installed in your computer)
 2. Run the file 'InterfazUsuario.m' from the matlab environment
+
 Once the program is openned, click on help 'Ayuda' to display information about the excel format that the program admits (already translated to english above). To load an excel file click on 'Buscar Archivo' and then select the file. Before analysing the data, click on the drop down list and select the sheets you want to be analyzed. Finally, click on the big button 'Analizar datos' to execute the analysis
 
 GUI image            |  Loaded Excel Sheets
